@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿<<<<<<< HEAD
 
 # HelloWorld
@@ -16,3 +17,6 @@ En este repositorio estamos realizando una práctica de [git](https://git-scm.co
 1. Crear arquitecturas de trabajo en equipos
 2. Crear repos en línea
 >>>>>>> 073dae4ed2555cee306b244528dc687b83e0552c
+=======
+
+>>>>>>> 99e96d2377cb8c29737b83c9d1d95dced42f2b61
